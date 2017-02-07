@@ -15,3 +15,7 @@ use http://www.fopo.com.ar/
 
 ## step 4 escalate ;)
 ![scrn](https://i.imgur.com/w02EgM8.jpg)
+
+- [linux-priv-escalation](http://www.securitysift.com/download/linuxprivchecker.py)
+- [unix-priv-escalation](https://github.com/pentestmonkey/unix-privesc-check)
+- [windows-priv-escalation](https://github.com/pentestmonkey/windows-privesc-check)
